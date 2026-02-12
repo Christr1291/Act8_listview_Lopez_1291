@@ -1,9 +1,9 @@
 # README.md
 
 
-<img width="1278" height="778" alt="image" src="https://github.com/user-attachments/assets/96f9d863-a49c-484b-9178-fd6ce73ccba1" />
+<img width="674" height="714" alt="image" src="https://github.com/user-attachments/assets/fd830a25-2a82-406c-ab31-04ed1ac149f4" />
 
 
-<img width="674" height="714" alt="image" src="https://github.com/user-attachments/assets/9b961ded-bd1b-4d71-bd75-08e7cdb6f77c" />
 
+<img width="467" height="793" alt="image" src="https://github.com/user-attachments/assets/bfb96f12-b653-42dd-9f8b-f5b0d41db999" />
 
